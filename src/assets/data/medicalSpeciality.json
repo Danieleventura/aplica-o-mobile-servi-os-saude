@@ -1,0 +1,35 @@
+[
+    { "name": "Cardiologia",
+      "color": "#0057C4"
+    },
+    { "name": "Clínico Geral",
+      "color": "#0066D2"
+    },
+    { "name": "Dermatologia",
+      "color": "#006CD7"
+    },
+    { "name": "Endocrinologia",
+      "color": "#0070DA"
+    },
+    { "name": "Ginecologia",
+      "color": "#0073DC"
+    },
+    { "name": "Oftalmologia",
+      "color": "#007BE3"
+    },
+    { "name": "Ortopedia",
+      "color": "#0070DB"
+    },
+    { "name": "Otorrinolaringologia",
+      "color": "#0E77E0"
+    },
+    { "name":  "Odontologia",
+      "color": "#1A7DE3"
+    },
+    { "name": "Pediatria",
+      "color": "#2782E7"
+    },
+    { "name": "Urologia",
+      "color":"#2C84E8"
+    }
+  ]

@@ -1,0 +1,13 @@
+<ion-content>
+  <div class="container-especialidades" >
+    <div class="cards" >
+        <ion-card button="true" *ngFor="let speciality of medicalSpeciality" style="background-color:{{speciality.color}};" [routerLink]="['speciality', speciality.name]">
+            <ion-card-header >
+              <ion-card-title>{{speciality.name}}</ion-card-title>
+            </ion-card-header>
+        </ion-card>
+    </div>
+  </div>
+  <router-outlet></router-outlet>
+</ion-content>
+

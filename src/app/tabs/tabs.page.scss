@@ -1,0 +1,26 @@
+ion-tab-button {
+  --color-selected: #4A90E4;
+  font-weight: bold;
+}
+ion-tab-bar.my-custom-tab-bar {
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border: unset;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background-color:white;
+  box-shadow: 0 1px 25px rgba(0,0,0,0.2);
+  ion-tab-button {
+    --background: transparent;
+  }
+  ion-tab-button:focus{
+    ion-icon, ion-label{
+      color: #4A90E4;
+      font-weight: bold;
+    }
+  }
+}
+.icon-tabs{
+  font-size: 25px;
+}

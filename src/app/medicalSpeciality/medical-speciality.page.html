@@ -1,0 +1,49 @@
+<div class="container-map" id="fullscreen">
+  <div class="button-login">
+    <ion-button (click)="openModal()">
+      <ion-icon name="person-circle-outline" ></ion-icon>
+    </ion-button>
+  </div>
+  <div class="container-map-component">
+    <ion-card id="map" class="google-map"></ion-card>
+  </div>
+</div>
+<ion-content>
+  <div class="container-geral">
+    <div class="container-cards" >
+      <div class="container-title">
+        <button (click)="backToTop()"> {{countData}} Unidades de {{specialityName}} próximas</button>
+      </div>
+      <div class="hospital-list">
+        <div  class="hospital-item" *ngFor="let data of dataJson | slice:0:infiniteScrollLimit">
+          <div class="hospital-title">
+            <p> {{data.name}}</p>
+          </div>
+          <div class="hospital-description">
+            <p> {{data.address}}</p>
+            <p>  Horário: {{data.time}}</p>
+            <p>  {{data.km}} km</p>
+          </div>
+          <div class="hospital-icon">
+            <ion-tab-button (click)="makeCall(data.phone)">
+              <ion-icon name="call"></ion-icon>
+              <ion-label>{{data.phone}}</ion-label>
+            </ion-tab-button>
+            <ion-tab-button (click)="plotRouteMap(data)">
+              <img id="icon-rota" src="/assets/img/rotaIcon.png">
+              <ion-label>Ver no mapa</ion-label>
+            </ion-tab-button>
+            <ion-tab-button >
+              <ion-icon name="car" (click)="requestUber(data)"></ion-icon>
+              <ion-label>Uber</ion-label>
+            </ion-tab-button>
+          </div>
+        </div>
+          <ion-infinite-scroll  threshold="100px"  (ionInfinite)="infiniteScrollData($event)">
+            <ion-infinite-scroll-content loadingSpinner="bubbles" loadingText="Loading more data...">
+            </ion-infinite-scroll-content>
+          </ion-infinite-scroll>
+      </div>
+    </div>
+  </div>
+</ion-content>

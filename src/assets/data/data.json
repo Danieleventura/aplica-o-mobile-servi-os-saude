@@ -1,0 +1,263 @@
+[
+  {
+    "name":"HOSPITAL DE URGÊNCIA E EMERGÊNCIA DOM LUIZ GONZAGA FERNANDES",
+    "address": "Av. Floriano Peixoto, n 4700 - Malvinas",
+    "phone": "(83) 3310-5850",
+    "time": "24 horas",
+    "km" : 0 ,
+    "lat": -7.236958161492183,
+    "lng": -35.929954448041556
+  },
+  {
+    "name":"HOSPITAL DE CLÍNICAS DE CAMPINA GRANDE",
+    "address": "Rua Siqueira Campos - Bairro São José",
+    "phone": "(83) 3322-7893",
+    "time": "24 horas",
+    "km" : 4 ,
+    "lat": -7.218928774221224,
+    "lng": -35.891678945869884
+  },
+  {
+    "name":"UBS SÃO JANUÁRIO II",
+    "address": "R. Maria Amélia Sobrinho - Bodocongó",
+    "phone": "(83) 3334-8010",
+    "time": "24 horas",
+    "km" : 8 ,
+    "lat": -7.204449343933842,
+    "lng": -35.944526718499034
+  },
+  {
+    "name":"UBS NELY MAIA",
+    "address": "R. Santa Terezinha, 644 - Novo Bodocongó",
+    "phone": "(83) 33107043",
+    "time": "24 horas",
+    "km" : 10 ,
+    "lat": -7.208883841608159,
+    "lng": -35.93318389672022
+  },
+  {
+    "name":"UBS Mutirão",
+    "address": "R. Severina Martins de Araújo, 12 - Serrotão",
+    "phone": "(83) 3334-9213",
+    "time": "24 horas",
+    "km" : 16 ,
+    "lat": -7.222378520894729,
+    "lng": -35.94685796706878
+  },
+  {
+    "name":"UBS Ramadinha I",
+    "address": "R. Manoel Pinto Filho - Ramadinha",
+    "phone": "(83) 3310-7044",
+    "time": "24 horas",
+    "km" : 18 ,
+    "lat": -7.218620896978172,
+    "lng": -35.92868266035038
+  },
+  {
+    "name":"Hospital de Trauma",
+    "address": "Av. Mal. Floriano Peixoto, 1045 - Malvinas",
+    "phone": "(83) 3310-5850",
+    "time": "24 horas",
+    "km" : 20 ,
+    "lat": -7.232631186955846,
+    "lng": -35.93327094076618
+  },
+  {
+    "name":"UBS Jardim Verdejante",
+    "address": "R. Raul Pereira dos Santos S/N - Jardim Verdejante",
+    "phone": "(83) 33107073",
+    "time": "24 horas",
+    "km" : 22 ,
+    "lat": -7.247475407147153,
+    "lng": -35.93497747242391
+  },
+  {
+    "name":"UBS Aluisio Salviano de Farias",
+    "address": "R. Maria porto de farias - Conj habitacional R",
+    "phone": "(83) ---",
+    "time": "24 horas",
+    "km" : 22 ,
+    "lat": -7.2605217929441315,
+    "lng": -35.92975421307863
+  },
+  {
+    "name":"UBS Hidemburgo Nunes de Figueiredo",
+    "address": "RUA JOAQUIM AMORIM JUNIOR S/N - Bodocongo",
+    "phone": "(83) 33107040",
+    "time": "24 horas",
+    "km" : 24 ,
+    "lat": -7.219993296352947,
+    "lng": -35.9262083725903
+  },
+  {
+    "name":"UBS Ricardo Amorim Guedes",
+    "address": "R. Pinta Marinho Santiago - Malvinas",
+    "phone": "(83) 3310-7194",
+    "time": "24 horas",
+    "km" : 26 ,
+    "lat": -7.224542575790944,
+    "lng": -35.93128664081488
+  },
+  {
+    "name":"UBS Malvinas V",
+    "address": "R. José Zacarias da Costa, 504 - Malvinas",
+    "phone": "(83) 3310-7075",
+    "time": "24 horas",
+    "km" : 26 ,
+    "lat": -7.225927438872436,
+    "lng": -35.92409211806868
+  },
+  {
+    "name":"Policlínica Luzia Cosme Dantas",
+    "address": "Av. Mal. Floriano Peixoto, 10013-10535 - Malvinas",
+    "phone": "(83) 3310-7063",
+    "time": "24 horas",
+    "km" : 26 ,
+    "lat": -7.23047034281037,
+    "lng": -35.924477872524506
+  },
+  {
+    "name":"UBS Umburanas",
+    "address": "Rua Lídia Batista Marques - Malvinas",
+    "phone": "(83) 3310-7042",
+    "time": "24 horas",
+    "km" : 26 ,
+    "lat": -7.242939705208792,
+    "lng": -35.92068386293581
+  },
+  {
+    "name":"UBS Malvinas III",
+    "address": "Rua lidia batista marques - Malvinas",
+    "phone": "(83) 3310-7164",
+    "time": "24 horas",
+    "km" : 26 ,
+    "lat": -7.247482669587381,
+    "lng": -35.92707308733412
+  },
+  {
+    "name":"UBS Juremas",
+    "address": "Rua das juremas - Malvinas",
+    "phone": "(83) 3310-7145",
+    "time": "24 horas",
+    "km" : 26 ,
+    "lat": -7.241269934239046,
+    "lng": -35.91968865870061
+  },
+  {
+    "name":"UBS Antonio Aurélio Ventura",
+    "address": "Rua Maria Eva De Moura -  Três Irmãs",
+    "phone": "(83) 3310-7072",
+    "time": "24 horas",
+    "km" : 26 ,
+    "lat": -7.253037313594377,
+    "lng": -35.925523306909675
+  },
+  {
+    "name":"UBS Ana Amélia Vilar Cantalice",
+    "address": "R Fernando de Noronha -  Três Irmãs",
+    "phone": "(83) 3339-6317",
+    "time": "24 horas",
+    "km" : 26 ,
+    "lat": -7.246134068295669,
+    "lng": -35.92126334968203
+  },
+  {
+    "name":"UBS Ronaldo Cunha Lima",
+    "address": "R. Dalila Brito de Oliveira -  Três Irmãs",
+    "phone": "(83) 3310-6180",
+    "time": "24 horas",
+    "km" : 26 ,
+    "lat": -7.254540631597928,
+    "lng": -35.91819183109658
+  },
+  {
+    "name":"UBS Cidades II",
+    "address": "Rua mariana -  Bairro das cidades",
+    "phone": "(83) 3310-6385",
+    "time": "24 horas",
+    "km" : 26 ,
+    "lat": -7.272483918336147,
+    "lng": -35.92742799289033
+  },
+  {
+    "name":"UBS Cidades I",
+    "address": "Av São João Del Rei -  Bairro das cidades",
+    "phone": "(83) 3310-6133",
+    "time": "24 horas",
+    "km" : 26 ,
+    "lat": -7.273749823915167,
+    "lng": -35.915787789714024
+  },
+  {
+    "name":"UBS Benjamim B da Silva",
+    "address": "R. Manoel Batista - Acácio Figueiredo",
+    "phone": "(83) 3310-6336",
+    "time": "24 horas",
+    "km" : 26 ,
+    "lat": -7.269777588159255,
+    "lng": -35.91528768073395
+  },
+  {
+    "name":"UBS Catolé de Zé Ferreira",
+    "address": "R Dulce da Silva Amorim, 360 - Velame",
+    "phone": "(83) 3310-6234",
+    "time": "24 horas",
+    "km" : 26 ,
+    "lat": -7.273532570166654,
+    "lng": -35.9123915950141
+  },
+  {
+    "name":"UBS Bodocongó I",
+    "address": "R Florípedes Coutinho, - Bodocongó",
+    "phone": "(83) 3310-7013",
+    "time": "24 horas",
+    "km" : 26 ,
+    "lat": -7.217526878473349,
+    "lng": -35.920525425958076
+  },
+  {
+    "name":"UBS João Rique",
+    "address": "R. Cantor Paulo Sérgio - Bodocongó",
+    "phone": "(83) 3310-7045",
+    "time": "24 horas",
+    "km" : 26 ,
+    "lat": -7.2194354726289385,
+    "lng": -35.916946581594594
+  },
+  {
+    "name":"UPA DINAMÉRICA",
+    "address": "R. Santa Cruz",
+    "phone": "(83) 3310-9800",
+    "time": "24 horas",
+    "km" : 26 ,
+    "lat": -7.239607014712641,
+    "lng": -35.91109712696851
+  },
+  {
+    "name":"UBS Raiff Ramalho",
+    "address": "R. Francisco Lopes de Almeida - Santa Cruz",
+    "phone": "(83) 3310-6004",
+    "time": "24 horas",
+    "km" : 26 ,
+    "lat": -7.243874266620334,
+    "lng": -35.91251696657883
+  },
+  {
+    "name":"UBS Eduardo Ramos",
+    "address": "Rua ladislau rodrigues de souza - Centenario",
+    "phone": "(83) 3310-6676",
+    "time": "24 horas",
+    "km" : 26 ,
+    "lat": -7.224641417782626,
+    "lng": -35.902014640937495
+  },
+  {
+    "name":"UBS Raimundo Carneiro",
+    "address": "R. Reginaldo C. Pereira - Centenario",
+    "phone": "(83) 3310-7047",
+    "time": "24 horas",
+    "km" : 26 ,
+    "lat": -7.220750597806114,
+    "lng": -35.91130487258982
+  }
+]
