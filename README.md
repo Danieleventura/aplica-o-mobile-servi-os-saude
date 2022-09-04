@@ -5,7 +5,7 @@ Sistema desenvolvido para TCC II - UEPB - 2022.1.
 Front end de uma aplicação Android/IOS para buscar unidades de saúde proximas ao usuário, desenvolvida utilizando Ionic5 + Angular. Para cadastrar as unidades de saúde na aplicação, foi desenvolvido um sistema web utilizando Angular.
 
 
-Repositório do sistema web: https://github.com/Danieleventura/crud-servico-saude
+Repositório do sistema web: https://github.com/Danieleventura/crud-sistema-web-TCC
 
 
 ## Primeiros passos:
