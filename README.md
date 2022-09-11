@@ -10,7 +10,7 @@ Repositório do sistema web: https://github.com/Danieleventura/crud-sistema-web-
 
 ## Primeiros passos:
 
-1-Clone este repositório: git clone https://github.com/Danieleventura/app-servio-saude-TCC
+1-Clone este repositório: git clone https://github.com/Danieleventura/app-servico-saude-TCC
 
 2-Rode ```npm install``` no root do projeto.
 
